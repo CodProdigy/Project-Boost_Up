@@ -45,7 +45,7 @@ If the player fails, they can retry the level or return to the start level.
 ### Story & Visuals: 
 The game is set on an unknown planet, where the player controls an experimental early generation spacecraft. The visuals are designed to evoke a sense of isolation and challenge as the player attempts to escape the planet by successfully navigating through treacherous environments.
 
-For more information about the game levels, or to view screenshots of the game and player model, check the `[Game Screenshots]()` file in the repository
+For more information about the game levels, or to view screenshots of the game and player model, check the [Game Screenshots](https://github.com/CodProdigy/Project-Boost_Up/tree/main/Game%20Screenshots) file in the repository
 
 ## What Is Onion Design?
 Onion design, also referred to as onion architecture, is `a metaphorical approach to game development, likening a game to an onion with multiple layers`. Each layer represents a distinct aspect of the game, such as core gameplay, level design, story, art, or sound. This concept is inspired by the idea of peeling an onion, where each layer reveals a new, refined aspect of the game.
